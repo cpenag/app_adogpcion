@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppCynthiaPena</string>
+    <!-- VARIABLES -->
+
+    <string name="til_mail">Email</string>
+    <string name="til_pass">Contraseña</string>
+    <string name="til_name">Nombre</string>
+    <string name="til_repass">Repetir contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_ingreso_login">Ingresar</string>
+    <string name="btn_registro">Registrarse</string>
+    <string name="btn_registro_login">Registrarme</string>
+    <string name="til_nac">Fecha de Nacimiento</string>
+    <string name="til_descripcion">Descripción</string>
+    <string name="til_add_descripcion">Añadir descripción...</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_guardar_add">Guardar Mascota</string>
+
+
+    <string name="tam_select_option">Seleccione una opción</string>
+
+    <string-array name="sp_category">
+        <item>@string/tam_select_option</item>
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+
+    <string-array name="lv_mascotas">
+        <item>BELLA</item>
+        <item>BUDDY</item>
+        <item>COCO</item>
+        <item>DAISY</item>
+        <item>MAX</item>
+    </string-array>
+</resources>
